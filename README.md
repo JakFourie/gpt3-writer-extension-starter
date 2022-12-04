@@ -1,4 +1,4 @@
-Built with Buildspace (details below) the original idea is to return a message via the OpenAI API (GPT-3) with the correct tone for positive results from a message wriiten while angry. Makes use of Chromium based browser extensions and the context menu on page.
+Built with Buildspace (details below) the original idea is to return a message via the OpenAI API (GPT-3) with the correct tone for positive results from a message written while angry. Makes use of Chromium based browser extensions and the context menu on page.
 
 # buildspace 
 ### Welcome 👋
